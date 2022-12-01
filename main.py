@@ -3,4 +3,4 @@ import szamologep
 
 #szamologep.osszeadas()
 #szamologep.kivonas()
-pizza.adatbekeres()
+pizza.pizza_rend()
